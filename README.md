@@ -1,6 +1,6 @@
 # AI_AGENT
 ## Project Title:
-An AI Agent using LanGraph and Hugging face 
+An AI Agent using LanGraph, Hugging face and deployed using Gradio
 ## Abstract
 This project presents an AI Agent that generates simple cooking recipes based on user-provided ingredients. By leveraging the instruction-tuned FLAN-T5 model from Hugging Face, the agent understands natural language input and produces simple cooking instructions. An interactive web interface is provided via Gradio, allowing users to experiment with different combinations of ingredients and instantly receive recipe suggestions.
 
